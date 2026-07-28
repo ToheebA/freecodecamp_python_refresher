@@ -1,3 +1,5 @@
+# Employee Profile Generator
+
 first_name = 'John'
 last_name = 'Doe'
 
