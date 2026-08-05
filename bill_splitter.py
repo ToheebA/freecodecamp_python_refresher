@@ -1,4 +1,5 @@
 #comment1
+#comment2
 
 running_total = 0
 num_of_friends = 4
