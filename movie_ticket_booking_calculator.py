@@ -1,3 +1,5 @@
+#movie ticket booking calculator
+
 base_price = 15
 age = 21
 seat_type = 'Gold'
