@@ -1,5 +1,6 @@
 #movie ticket booking calculator
 #comment 1
+#comment 2
 
 base_price = 15
 age = 21
