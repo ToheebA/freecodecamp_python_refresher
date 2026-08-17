@@ -1,6 +1,7 @@
 #rpg character builder
 #comment 1
 #comment 2
+#comment 3
 
 def create_character(name, strength, intelligence, charisma):
     if not isinstance(name, str):
