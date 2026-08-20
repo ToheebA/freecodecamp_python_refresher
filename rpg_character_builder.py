@@ -4,6 +4,7 @@
 #comment 3
 #comment 4
 #comment 5
+#comment 6
 
 def create_character(name, strength, intelligence, charisma):
     if not isinstance(name, str):
