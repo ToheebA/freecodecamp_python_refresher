@@ -1,3 +1,5 @@
+#number pattern generator
+
 def number_pattern(n):
     if not isinstance(n, int):
         return "Argument must be an integer value."
