@@ -1,6 +1,7 @@
 #number pattern generator
 #comment 1
 #comment 2
+#comment 3
 
 def number_pattern(n):
     if not isinstance(n, int):
