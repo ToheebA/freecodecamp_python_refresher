@@ -1,3 +1,5 @@
+#comment 1
+
 test_settings = {'theme': 'light', 'volume': 'medium'}
 
 def add_setting(settings, kv):
