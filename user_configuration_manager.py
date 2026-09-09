@@ -1,5 +1,6 @@
 #comment 1
 #comment 2
+#comment 3
 
 test_settings = {'theme': 'light', 'volume': 'medium'}
 
