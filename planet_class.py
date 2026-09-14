@@ -1,3 +1,5 @@
+#comment 1
+
 class Planet:
     def __init__(self, name, planet_type, star):
         if not isinstance(name, str) or not isinstance(planet_type, str) or not isinstance(star, str):
