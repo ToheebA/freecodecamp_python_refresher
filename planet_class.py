@@ -1,5 +1,6 @@
 #comment 1
 #comment 2
+#comment 3
 
 class Planet:
     def __init__(self, name, planet_type, star):
