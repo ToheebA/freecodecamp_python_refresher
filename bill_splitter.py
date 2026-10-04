@@ -1,6 +1,7 @@
 #comment1
 #comment2
 #comment3
+#comment4
 
 running_total = 0
 num_of_friends = 4
