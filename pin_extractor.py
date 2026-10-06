@@ -1,3 +1,5 @@
+#comment 1
+
 def pin_extractor(poems):
     secret_codes = []
     for poem in poems:    
