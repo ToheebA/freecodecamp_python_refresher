@@ -1,9 +1,12 @@
-#budget app
-#comment 1
-#comment 2
-#comment 3
-#comment 4
-
 class Category:
-    def __init__(self, name, ledger):
+    def __init__(self, name):
+        self.ledger = []
         pass
+
+    def deposit(self, amount, description):
+        if not description:
+            description = ''
+        self.ledger.append({'amount': amount, 'description': description})
+
+def create_spend_chart(categories):
+    pass
