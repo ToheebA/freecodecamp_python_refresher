@@ -16,5 +16,11 @@ class Category:
         else:
             return False
 
+    def get_balance(self):
+        balance = 0
+        for amount in self.ledger:
+            balance += amount
+            return balance
+
 def create_spend_chart(categories):
     pass
