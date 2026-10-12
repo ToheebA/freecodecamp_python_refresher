@@ -1,3 +1,5 @@
+#comment 1
+
 class Category:
     def __init__(self, name):
         self.ledger = []
