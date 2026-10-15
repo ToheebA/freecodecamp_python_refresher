@@ -1,4 +1,5 @@
 #comment 1
+#comment 2
 
 def apply_discount(price, discount):
     if not isinstance(price, (int, float)):
