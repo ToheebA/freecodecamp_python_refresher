@@ -1,5 +1,6 @@
 # Employee Profile Generator
 #comment 1
+#comment 2
 
 first_name = 'John'
 last_name = 'Doe'
